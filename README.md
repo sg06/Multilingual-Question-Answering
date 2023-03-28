@@ -28,8 +28,7 @@ into telugu and bengali language using the mbart model.
 Dataset: tydiqa<br>
 Additional Dataset: None<br>
 Best Model: bert-base-multilingual-cased<br>
-Model: krinal214/bert-all<br>
-(link: https://huggingface.co/krinal214/bert-all )<br>
+Model: <a href="https://huggingface.co/krinal214/bert-all">bert-all</a><br>
 ### Additional Cases:
 1) Filename: bert-all-tydiqa+squad.ipynb<br>
 Dataset: tydiqa<br>
