@@ -1,9 +1,8 @@
 # Multilingual-Question-Answering
 
 ### Instructions:
-- You can run train any model using ipynb file as it is.
-- If you want to only test the model then use the evaluation script. change the
-only model name in the evaluation.ipynb file.<br>
+- You can train any model using ipynb file as it is.
+- If you only want to test the model then use the evaluation script. Just change the model name in the evaluation.ipynb file.<br>
 ### Dataset Creation Files:
 - Translation using <a href="https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt">mbart-large-50-one-to-many-translation model</a>.<br>
 File Name: Translation_code/squad_traslated_using_mbart.ipynb
