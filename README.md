@@ -43,14 +43,12 @@ Model: <a href="https://huggingface.co/krinal214/bert-all-translated">bert-all-t
 Dataset: tydiqa<br>
 Additional Dataset: Translated Squad (Only questions are translated into
 telugu and bengali using mbart)<br>
-Model: krinal214/augmented_Squad_Translated<br>
-(link: https://huggingface.co/krinal214/augmented_Squad_Translated )<br>
+Model: <a href="https://huggingface.co/krinal214/augmented_Squad_Translated">augmented_Squad_Translated</a><br>
 4) Filename: bert-all-tydiqa+squad+squad_que.ipynb<br>
 Dataset: tydiqa<br>
 Additional Dataset: Squad (english only - original) + Translated Squad (Only
 questions are translated into telugu and bengali)<br>
-Best Model: krinal214/bert-all-squad_que_translated<br>
-(link: https://huggingface.co/krinal214/bert-all-squad_que_translated )<br>
+Best Model: <a href="https://huggingface.co/krinal214/bert-all-squad_que_translated">bert-all-squad_que_translated</a><br>
 5) Filename: bert-all-tydiqa+squad+squad_context.ipynb<br>
 Dataset: tydiqa<br>
 Additional Dataset: Squad (english only - original) + Translated Squad (Used
