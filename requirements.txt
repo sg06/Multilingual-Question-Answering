@@ -1,0 +1,6 @@
+python 3.8.10
+Transformers 4.15.0
+Pytorch 1.9.1
+Datasets 2.0.0
+Tokenizers 0.10.3
+huggingface_hub 0.2.1
